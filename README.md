@@ -9,7 +9,7 @@ Scope: national GB wind generation, purchase decisions made in **January 2026**.
 BMRS [FUELHH](https://bmrs.elexon.co.uk/api-documentation/endpoint/datasets/FUELHH/stream) (actuals, `fuelType = WIND`)
 and [WINDFOR](https://bmrs.elexon.co.uk/api-documentation/endpoint/datasets/WINDFOR/stream) (forecasts).
 
-**Live app:** `<VERCEL_URL>`
+**Live app:** https://axbzdw.vercel.app
 
 ---
 
